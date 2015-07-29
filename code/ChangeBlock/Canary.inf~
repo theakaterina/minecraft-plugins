@@ -1,0 +1,4 @@
+main-class = changeblock.ChangeBlock
+name = ChangeBlock
+author = Thea Koutsoukis
+version = 1.0
